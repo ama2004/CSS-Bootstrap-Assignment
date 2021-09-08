@@ -1,7 +1,15 @@
-styling {
-    background-color:blue;
+.styling {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(28, 155, 155);
+    border: 3px solid greenyellow;
+    text-align: center;
+    font-size: xx-large;
 }
 
 #firstid {
-    background-color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(28, 155, 155);
+    border: 3px solid green;
+    text-align: center;
+    font-size: xx-large;   
 }
